@@ -1,0 +1,8 @@
+{
+    "parent": "block/slab",
+    "textures": {
+        "bottom": "greenlands:block/ghost_planks",
+        "top": "greenlands:block/ghost_planks",
+        "side": "greenlands:block/ghost_planks"
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "all": "greenlands:block/ghost_charcoal_block"
+    }
+}

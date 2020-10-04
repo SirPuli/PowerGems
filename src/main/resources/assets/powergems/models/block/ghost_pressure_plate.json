@@ -1,0 +1,6 @@
+{
+    "parent": "block/pressure_plate_up",
+    "textures": {
+        "texture": "greenlands:block/ghost_planks"
+    }
+}

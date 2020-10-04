@@ -1,0 +1,6 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "all": "greenlands:block/end_ruby_ore"
+    }
+}

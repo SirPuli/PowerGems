@@ -1,0 +1,7 @@
+{
+    "parent": "block/door_top",
+    "textures": {
+        "bottom": "greenlands:block/ghost_door_bottom",
+        "top": "greenlands:block/ghost_door_top"
+    }
+}

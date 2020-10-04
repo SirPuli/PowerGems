@@ -1,0 +1,6 @@
+{
+    "parent": "block/fence_side",
+    "textures": {
+        "texture": "greenlands:block/ghost_planks"
+    }
+}

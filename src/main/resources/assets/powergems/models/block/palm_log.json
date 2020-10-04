@@ -1,0 +1,7 @@
+{
+    "parent": "block/cube_column",
+    "textures": {
+        "end": "greenlands:block/palm_log_top",
+        "side": "greenlands:block/palm_log"
+    }
+}

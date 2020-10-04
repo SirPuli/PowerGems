@@ -1,0 +1,7 @@
+{
+    "parent": "block/cube_column",
+    "textures": {
+        "end": "greenlands:block/ghost_log_top",
+        "side": "greenlands:block/ghost_log"
+    }
+}

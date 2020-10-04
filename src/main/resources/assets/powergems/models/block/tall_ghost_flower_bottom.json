@@ -1,0 +1,6 @@
+{
+    "parent": "block/cross",
+    "textures": {
+        "cross": "greenlands:block/tall_ghost_flower_bottom"
+    }
+}
